@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Object-Oriented Programming, Algorithms and Operating Systems
 - 📫 How to reach me: Email me at ALIM081@e.ntu.edu.sg
 
-Thanks for Reading!
+Thanks for Reading! ✌️
