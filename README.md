@@ -1,7 +1,7 @@
 # 👋  Hello, I'm Alexus!
 
-- Currently learning HTML, CSS and SQL during my Winter Break!
-- 🔭 Trying to learn and improve myself along the way
+- 📖 Currently learning Web Design (HTML, CSS, Javascript)! Hopefully I've got some time to learn SQL too
+- 🌠 Learning more and improving myself
 - 📫 How to reach me: Email me at alexusljf@gmail.com
 
 Thanks for Reading! ✌️
