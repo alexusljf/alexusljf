@@ -1,6 +1,6 @@
 # 👋  Hello, I'm Alexus!
 
-- 📖 Still in University 
+- 🏫 Still in University 
 - 📖 Currently learning Web Design (React)! Hopefully I've got some time to learn SQL too
 - 🌠 Learning more and improving myself
 - 📫 How to reach me: Email me at alexusljf@gmail.com
