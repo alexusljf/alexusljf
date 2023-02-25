@@ -7,8 +7,6 @@
 
 Thanks for Reading! ✌️
 
-<div style="width:800px; margin:0 auto;">
-  
+<div style="text-align: center;">
   ![Alexus's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexusljf&show_icons=true&count_private=true&theme=cobalt)
-  
 </div>
