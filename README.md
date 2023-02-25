@@ -5,3 +5,5 @@
 - 📫 How to reach me: Email me at alexusljf@gmail.com
 
 Thanks for Reading! ✌️
+
+![Alexus's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexusljf&show_icons=true&count_private=true)
