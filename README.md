@@ -3,12 +3,26 @@
 
 🏫 Computer Science @ NTU <br/>
 📖 Currently interested in Python Automation and App Development <br/>
-📫 How to reach me: Email me at alexusljf@gmail.com <br/>
 
 <div>
 
   ![Alexus's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexusljf&show_icons=true&count_private=true&theme=ocean_dark)
 
+</div>
+
+<br/>
+
+<div>
+    <h2>🔗 My Links</h2>
+    <a href="https://alexusljf.github.io/">
+        <img src= "https://img.shields.io/badge/alexusljf.github.io-121013?style=for-the-badge&logo=github&logoColor=white)" alt="My website">
+    </a>
+    <a href="https://www.linkedin.com/in/alexuslim/">
+        <img src="https://img.shields.io/badge/alexuslim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn">
+    </a>
+    <a href="mailto:alexusljf@gmail.com">
+        <img src="https://img.shields.io/badge/alexusljf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My email">
+    </a>
 </div>
 
 <br/>
