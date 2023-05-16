@@ -5,8 +5,6 @@
 📖 Currently interested in Python Automation and App Development <br/>
 📫 How to reach me: Email me at alexusljf@gmail.com <br/>
 
-<br/>
-
 <div>
 
   ![Alexus's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexusljf&show_icons=true&count_private=true&theme=ocean_dark)
