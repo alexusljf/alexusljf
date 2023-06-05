@@ -2,7 +2,7 @@
 <h1> 👋 Hello, I'm Alexus! </h1>
 
 🏫 Computer Science @ NTU <br/>
-📖 Currently interested in Python Automation and App Development <br/>
+📖 Summer Break! Chilling and learning stuff on the side <br/>
 
 <div>
 
