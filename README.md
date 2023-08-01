@@ -2,7 +2,7 @@
 <h1> 👋 Hello, I'm Alexus! </h1>
 
 🏫 Computer Science @ NTU <br/>
-📖 Summer Break! Chilling and learning stuff on the side <br/>
+📖 Chilling and learning stuff on the side <br/>
 
 <div>
 
