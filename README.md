@@ -1,8 +1,8 @@
 <div align = "center">
 <h1> 👋 Hello, I'm Alexus! </h1>
 
-🏫 Computer Science @ NTU <br/>
-📖 Chilling and learning stuff on the side <br/>
+🏫 Computer Science Penultimate @ NTU <br/>
+📖 Learning backend! Doing self-projects on the side <br/>
 
 <div>
 
