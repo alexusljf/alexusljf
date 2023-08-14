@@ -5,14 +5,6 @@
 📖 Learning backend! Doing self-projects on the side <br/>
 
 <div>
-
-  ![Alexus's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexusljf&show_icons=true&count_private=true&theme=ocean_dark)
-
-</div>
-
-<br/>
-
-<div>
     <h2>🔗 My Links</h2>
     <a href="https://alexusljf.github.io/">
         <img src= "https://img.shields.io/badge/alexusljf.github.io-121013?style=for-the-badge&logo=github&logoColor=white)" alt="My website">
