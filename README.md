@@ -2,7 +2,8 @@
 <h1> 👋 Hello, I'm Alexus! </h1>
 
 🏫 Computer Science Penultimate @ NTU <br/>
-📖 Learning backend! Doing self-projects on the side <br/>
+💻 I enjoy developing websites and incorporating new technologies I discover and learn <br/>
+📖 Currently interested in learning Backend Development and TypeScript! Doing self-projects on the side <br/>
 
 <div>
     <h2>🔗 My Links</h2>
