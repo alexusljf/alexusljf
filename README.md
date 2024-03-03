@@ -1,9 +1,9 @@
 <div align = "center">
 <h1> 👋 Hello, I'm Alexus! </h1>
 
-🏫 Computer Science Penultimate @ NTU <br/>
+🏫 Computer Science Penultimate @ NTU | Software Engineer Intern @ GovTech<br/>
 💻 I enjoy learning about new technologies and incorporating them into projects! <br/>
-📖 Currently learning about different frontend frameworks and backend development. Doing some self-projects on the side! <br/>
+📖 Currently learning different frontend frameworks and backend development. Doing some self-projects on the side! <br/>
 
 <div>
     <h2>🔗 My Links</h2>
@@ -22,40 +22,25 @@
 
 <div>
     <h1> Programming Languages </h1>
-    <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src = "https://skillicons.dev/icons?i=python,c,java,js,typescript" />
 </div>
 
 <br/>
 
 <div>
-  <h1> Frontend Development </h1>
-  <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <h1> Web Development </h1>
+  <img src = "https://skillicons.dev/icons?i=html,css,sass,react,nodejs,expressjs,nextjs" />
 </div>
 
 <br/>
 
 <div>
   <h1> Database </h1>
-  <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src = "https://skillicons.dev/icons?i=mongo,postgres" />
 </div>
 
 <br/>
 <hr>
-<!---
-the skill icons are from: https://github.com/alexandresanlim/Badges4-README.md-Profile
-<div>
-  <a href = "https://www.data-card-for-spotify.com/card?user_id=limjinfeng">
-    <img src = "https://www.data-card-for-spotify.com/api/card?user_id=limjinfeng&show_border=true&custom_title=Alexus%27s%20Spotify&hide_title=true&hide_top_tracks=true&limit=3" alt="Data Card for Spotify">
-  </a>
-</div>
--->
-<h3> Thanks For Reading! 😊 Still Learning! </h3>
+<h3> Thanks for reading and visiting my page! 😊</h3>
 
 </div>
