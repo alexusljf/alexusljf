@@ -1,9 +1,10 @@
 <div align = "center">
 <h1> 👋 Hello, I'm Alexus! </h1>
 
-🏫 Computer Science Penultimate @ NTU | Software Engineer Intern @ GovTech<br/>
+🏫 Final Year Computer Science @ NTU | Former Software Engineer Intern @ GovTech<br/>
+📖 Looking for Full-Time opportunities for June 2025 onwards! <br/>
+📖 Looking for Part-Time internship opportunities for Aug 2024 - June 2025 while I finish up my Final Year! <br/>
 💻 I enjoy learning about new technologies and incorporating them into projects! <br/>
-📖 Currently learning different frontend frameworks and backend development. Doing some self-projects on the side! <br/>
 
 <div>
     <h2>🔗 My Links</h2>
@@ -29,7 +30,7 @@
 
 <div>
   <h1> Web Development </h1>
-  <img src = "https://skillicons.dev/icons?i=html,css,sass,react,nodejs,expressjs,nextjs" />
+  <img src = "https://skillicons.dev/icons?i=html,css,sass,react,nodejs,expressjs,nextjs,tailwind" />
 </div>
 
 <br/>
