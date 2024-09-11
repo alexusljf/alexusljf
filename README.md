@@ -3,7 +3,7 @@
 
 🏫 Final Year Computer Science @ NTU | Former Software Engineer Intern @ GovTech<br/>
 📖 Looking for Full-Time opportunities for June 2025 onwards! <br/>
-📖 Looking for Part-Time internship opportunities for Aug 2024 - June 2025 while I finish up my Final Year! <br/>
+📖 Looking for internship opportunities for Aug 2024 - June 2025 while I finish up my Final Year! <br/>
 💻 I enjoy learning about new technologies and incorporating them into projects! <br/>
 
 <div>
