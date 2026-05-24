@@ -1,9 +1,9 @@
 <div align = "center">
 <h1> 👋 Hello, I'm Alexus! </h1>
 
-🏫 Final Year Computer Science @ NTU | Cybersecurity and Software Engineering enthusiast <br/>
-📖 Looking for Full-Time opportunities for June 2025 onwards! <br/>
+🏫 ServiceNow Developer @ Cognizant | Software Developer <br/>
 💻 I enjoy learning about new technologies and incorporating them into projects! <br/>
+😺 [Check out my website to learn more!](https://alexuslim.vercel.app/)
 
 <hr>
 <h3> Thanks for reading and visiting my page! 😊</h3>
